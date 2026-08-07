@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Back-End
 - 🌱 Estudando Python
-- 📫 Contate-me no email: lfnaegel.dev@gmail.com
 
 - <h1 data-importer="text" align="center">Olá, Me chamo Luís Filipe</h1>
 
