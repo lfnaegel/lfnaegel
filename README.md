@@ -74,6 +74,15 @@ I’m deeply focused on **architecture, performance, clean code**.
 
 ---
 
+## 📈 Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfnaegel/lfnaegel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfnaegel/lfnaegel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lfnaegel/lfnaegel/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 🚀 Philosophy
 
 > _"More than writing lines of code, programming is about communicating ideas, solving real-world problems with empathy for the user, and striving for continuous improvement through simplicity."_
