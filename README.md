@@ -12,16 +12,16 @@ I’m deeply focused on **architecture, performance, clean code**.
 <p align="left">
   <a href="https://github.com/lfnaegel">
     <img src="https://img.shields.io/badge/GitHub-lfnaegel-181717?style=for-the-badge&logo=github" />
-  </a>
+  </a><br>
   <a href="https://instagram.com/luisnaegel">
     <img src="https://img.shields.io/badge/Instagram-@luisnaegel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a><br>
   <a href="https://www.linkedin.com/in/luisfilipenaegel/">
     <img src="https://img.shields.io/badge/LinkedIn-luisfilipenaegel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a><br>
   <a href="mailto:lfnaegel.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-lfnaegel.dev@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a><br>
 </p>
 
 
