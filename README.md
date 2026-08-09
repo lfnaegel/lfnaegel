@@ -1,7 +1,7 @@
 # Hi 👋, I'm Luís Filipe
 
 🚀 **Software Engineer | Python & Java**  
-🇧🇷 Brasil
+<img src="https://githubusercontent.com" alt="Bandeira do Brasil" width="20"> Brasil
 
 I’m deeply focused on **architecture, performance, clean code**.
 
