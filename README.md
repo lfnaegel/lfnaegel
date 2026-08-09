@@ -70,10 +70,7 @@ I’m deeply focused on **architecture, performance, clean code**.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lfnaegel&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnaegel&layout=compact&theme=tokyonight" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lfnaegel&theme=dark&short_numbers=true&mode=weekly&card_width=496" alt="GitHub Streak" /></a>
 
 ---
 
