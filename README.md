@@ -70,7 +70,12 @@ I’m deeply focused on **architecture, performance, clean code**.
 
 ## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lfnaegel&theme=dark&short_numbers=true&mode=weekly&card_width=496" alt="GitHub Streak" /></a>
+![lfnaegel Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lfnaegel&mode-daily&theme=dark&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lfnaegel&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lfnaegel&theme=dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfnaegel&theme=dark) | ![](https://streak-stats.demolab.com?user=lfnaegel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
 
 ---
 
