@@ -40,7 +40,6 @@ I’m deeply focused on **architecture, performance, clean code**.
 -   ⏱️ Time Management
 -   💡 Creativity
 -   👑 Leadership
--   🧩 Emotional Intelligence
 
 ---
 
