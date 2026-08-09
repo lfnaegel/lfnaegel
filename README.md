@@ -1,38 +1,88 @@
-## Olá! Me chamo Luís Filipe
+# Hi 👋, I'm Luís Filipe
 
-- 🔭 Hoje trabalho com Back-End
-- 🌱 Estudando Python
+🚀 **Software Engineer | Python & Java**  
+🇧🇷 Brasil
 
-- <h1 data-importer="text" align="center">Olá, Me chamo Luís Filipe</h1>
+I’m deeply focused on **architecture, performance, clean code**.
 
-###
+---
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-</div>
+## 🌐 Where to find me
 
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/luisfilipenaegel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://github.com/lfnaegel">
+    <img src="https://img.shields.io/badge/GitHub-lfnaegel-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/luisnaegel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://instagram.com/luisnaegel">
+    <img src="https://img.shields.io/badge/Instagram-@luisnaegel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:lfnaegel.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/luisfilipenaegel/">
+    <img src="https://img.shields.io/badge/LinkedIn-luisfilipenaegel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="mailto:lfnaegel.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lfnaegel.dev@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</p>
 
-###
+
+---
+
+## 🧠 Skills
+
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   📚 Continuous Learning
+-   🗣️ Communication
+-   🤝 Teamwork
+-   🧠 Problem Solving
+-   🔄 Adaptability
+-   🎯 Critical Thinking
+-   ⏱️ Time Management
+-   💡 Creativity
+-   👑 Leadership
+-   🧩 Emotional Intelligence
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-2D3748?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lfnaegel&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnaegel&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"More than writing lines of code, programming is about communicating ideas, solving real-world problems with empathy for the user, and striving for continuous improvement through simplicity."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
